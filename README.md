@@ -1,2 +1,2 @@
 # hackaton-yhat
-holaholaholaholahola estoy usando nano en terminal de linux ubuntu!!!!!!!
+[Video Pitch](https://drive.google.com/file/d/1x6Ll56wwJdoOgRFhfiGTwNQ0_tDmBEFV/view?usp=sharing)
