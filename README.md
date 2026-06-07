@@ -2,3 +2,10 @@
 
 [Video Pitch](https://drive.google.com/file/d/1x6Ll56wwJdoOgRFhfiGTwNQ0_tDmBEFV/view?usp=sharing)
 [Informe Tecnico](<informe tecnico.pdf>)
+
+### Participantes
+
+- Felipe Gazcón
+- Tomas Moavro
+- Bautista Berardi
+- Lucas Argerich
